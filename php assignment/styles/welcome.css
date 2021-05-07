@@ -1,0 +1,31 @@
+body{
+    background-image: url("../images/pasbg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+div{
+margin: 10% 30%;
+text-align: center;
+font-size: 20px;
+background-color: rgb(150, 198, 221);
+opacity: 0.5;
+
+}
+div > p{
+color: black;
+}
+
+a{
+text-align: center;
+text-decoration: none;
+color: black;
+margin: auto 42%;
+font-size: 40px;
+
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: underline;
+}

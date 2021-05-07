@@ -1,0 +1,38 @@
+body{
+    background-image: url("../images/pasbg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+div{
+    margin: 5% 30%;
+    background-color:rgb(150, 198, 221);
+    opacity: 0.7;
+
+}
+
+div > form > p{
+    padding: 5px;
+    text-align : center;
+}
+div > form > p > input{
+    
+    width: 400px;
+    height: 40px;
+    
+    
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: underline;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    text-align : center;
+    font-size: larger;
+    margin-left: 250px;
+}
